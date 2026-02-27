@@ -3,3 +3,4 @@ pandas
 numpy
 sqlalchemy
 scikit-learn
+tensorflow
