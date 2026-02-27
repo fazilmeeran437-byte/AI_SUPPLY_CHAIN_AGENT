@@ -3,4 +3,5 @@ pandas
 numpy
 sqlalchemy
 scikit-learn
-tensorflow
+tensorflow-cpu==2.12.0
+matplotlib
